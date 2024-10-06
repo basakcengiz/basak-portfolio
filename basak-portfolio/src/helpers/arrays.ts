@@ -9,10 +9,10 @@ export const links: LinkType[] = [
     name: 'Projects',
     id: '#projects'
   },
-  {
+  /*  {
     name: 'Skills',
     id: '#skills'
-  },
+  }, */
   {
     name: 'Contact',
     id: '#contact'
