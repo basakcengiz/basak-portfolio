@@ -10,8 +10,8 @@ const About = () => {
           <h4 className="text-[#b1b1b1] text-2xl mb-4">ABOUT ME</h4>
           <div className="text-md text-center">
             <p className="mb-4">
-              Hi, I'm Başak Cengiz, a self-motivated Front End Developer with a year of experience. I graduated from the Department of Electrical and
-              Electronics Engineering at Akdeniz University in 2022 with 3.18 CGPA.
+              Hi, I'm Başak Cengiz, a Front End Developer with a year of experience. I graduated from the Department of Electrical and Electronics Engineering
+              at Akdeniz University in 2022 with 3.18 CGPA.
             </p>
             <p className="mb-4">
               I specialize in modern web technologies such as JavaScript, TypeScript, React.js, GraphQL, Tailwind CSS, and Material-UI. My goal is to create
