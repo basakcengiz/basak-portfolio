@@ -34,7 +34,7 @@ const Home = () => {
                      <img src={graphql} alt="graphql" className="w-10 h-10" />
                      <img src={yarn} alt="yarn" className="w-10 h-10" />
                   </div>
-                  <div className="flex items-center justify-center w-1/3 h-8">
+                  {/*   <div className="flex items-center justify-center w-1/3 h-8">
                      <a
                         href="/BASAK_CENGIZ_CV.pdf"
                         target="_blank"
@@ -43,7 +43,7 @@ const Home = () => {
                      >
                         View CV
                      </a>
-                  </div>
+                  </div> */}
                </div>
             </div>
          </div>
